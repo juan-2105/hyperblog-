@@ -32,6 +32,11 @@ body
     font-size: 0.8em;
 }
 
+#fotoprincipal {
+    width: 200px;
+    height: 200px;
+}
+
 #container
 {
     width: 70%;
